@@ -15,7 +15,7 @@ int * insertSort(int a[], int n) {
         a[j-1] = key;
     }
     return a;
-} //fix
+}
 
 int sockMerchant() {
     int n, ar[MAX], count = 0;
